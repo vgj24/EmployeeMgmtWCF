@@ -1,0 +1,6 @@
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Common Layer\bin\Debug\Common Layer.dll
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Common Layer\bin\Debug\Common Layer.pdb
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Common Layer\obj\Debug\Common Layer.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Common Layer\obj\Debug\Common Layer.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Common Layer\obj\Debug\Common Layer.dll
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Common Layer\obj\Debug\Common Layer.pdb

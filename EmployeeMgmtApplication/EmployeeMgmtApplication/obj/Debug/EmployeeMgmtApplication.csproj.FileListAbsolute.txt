@@ -1,0 +1,17 @@
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\obj\Debug\EmployeeMgmtApplication.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\obj\Debug\EmployeeMgmtApplication.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\bin\EmployeeMgmtApplication.dll.config
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\bin\EmployeeMgmtApplication.dll
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\bin\EmployeeMgmtApplication.pdb
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\bin\Business Layer.dll
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\bin\Common Layer.dll
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\bin\Repository Layer.dll
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\bin\EntityFramework.dll
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\bin\Business Layer.pdb
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\bin\Common Layer.pdb
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\bin\Repository Layer.pdb
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\bin\Repository Layer.dll.config
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\bin\EntityFramework.xml
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\obj\Debug\EmployeeMgmtApplication.csproj.CopyComplete
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\obj\Debug\EmployeeMgmtApplication.dll
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\EmployeeMgmtApplication\obj\Debug\EmployeeMgmtApplication.pdb

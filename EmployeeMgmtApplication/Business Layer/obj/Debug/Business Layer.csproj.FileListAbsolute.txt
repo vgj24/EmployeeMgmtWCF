@@ -1,0 +1,14 @@
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\bin\Debug\Business Layer.dll
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\bin\Debug\Common Layer.dll
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\bin\Debug\Repository Layer.dll
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\bin\Debug\EntityFramework.dll
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\bin\Debug\Common Layer.pdb
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\bin\Debug\Repository Layer.pdb
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\bin\Debug\Repository Layer.dll.config
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\bin\Debug\EntityFramework.xml
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\obj\Debug\Business Layer.csproj.CopyComplete
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\obj\Debug\Business Layer.dll
+C:\Users\vgj24\source\repos\EmployeeMgmtApplication\Business Layer\obj\Debug\Business Layer.pdb
